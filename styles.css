@@ -1,0 +1,35 @@
+/* styles */
+body {
+    background-color: rgb(184, 233, 165);
+}
+
+/* images */
+
+.dish {
+    width: 300px;
+    height: auto;
+    margin-left: 42%;
+}
+
+/* title */
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/*content*/
+
+.container {
+    max-width: 40%;
+    padding: 23px;
+    border: 5px solid rgb(46, 199, 204);
+    margin: 50px;
+    display: inline-block;
+}
+
+/* footer */
+ 
+h3 {
+    text-align: center;
+}
